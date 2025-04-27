@@ -4,7 +4,13 @@
 A full-stack web application designed to streamline content creation by leveraging multiple cutting-edge AI models. Users can select various content types, provide specific keywords and parameters, choose their preferred AI model, and generate high-quality content tailored to their needs in seconds.
 
 
+![{FE98D025-98CA-4C1B-B90E-ED2027A1EE96}](https://github.com/user-attachments/assets/49688bfe-a66b-4fef-8758-1414ae696000)
 
+![image](https://github.com/user-attachments/assets/2273da7d-e035-4813-b380-f4eefde3fb79)
+
+![image](https://github.com/user-attachments/assets/56540d85-daea-4e37-a8bc-85bdba5903c3)
+
+![image](https://github.com/user-attachments/assets/253518dd-830f-40df-826b-3216b374ed50)
 
 
 ---
